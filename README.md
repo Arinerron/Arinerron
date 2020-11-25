@@ -1,6 +1,6 @@
 # Hey, I'm Aaron Esau! 👋
 
-I'm a CS student at Oregon State University, CTF player with redpwn, HackerOnie, and avid software developer.
+I'm a CS student at Oregon State University, CTF player with [redpwn](https://pwn.red/), [Hackeronie](https://hackerone.com/arinerron2), and avid software developer.
 
 ------
 
