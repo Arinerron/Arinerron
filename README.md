@@ -1,6 +1,6 @@
 # Hey, I'm Aaron Esau! 👋
 
-I'm a freshman ECE student at Oregon State University, a CTF player with the teams [OSUSEC](https://www.osusec.org/) and [redpwn](https://pwn.red/) (web+pwn).
+I'm a freshman ECE student at Oregon State University, and a CTF player with the teams [OSUSEC](https://www.osusec.org/) and [redpwn](https://pwn.red/) (web+pwn).
 
 ------
 
