@@ -1,3 +1,5 @@
 <h1>Hey, I'm Aaron Esau! 👋</h1>
 
-<a href="https://www.linkedin.com/in/aaron-esau/"><img src="https://img.icons8.com/ios/2x/linkedin.png" width="30" alt="LinkedIn"></a> <a href="https://aaronesau.com/"><img src="https://img.icons8.com/ios/2x/shrug-emoticon.png" width="30" alt="Website"></a>
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.25; background: url('https://raw.githubusercontent.com/Arinerron/Arinerron/master/background.png');]{x0000}$}
+
